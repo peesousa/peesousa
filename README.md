@@ -10,6 +10,10 @@
   Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades em projetos inovadores!
 </p>
 
+<p align="left">
+  💼 Confira meu portfólio online: <strong><a href="https://peesousa-28824bbd3d2a.herokuapp.com/" target="_blank">peesousa.herokuapp.com</a></strong>
+</p>
+
 ---
 
 ## 💡 Sobre Mim
@@ -17,7 +21,7 @@
 - 👨‍💻 Focado em desenvolvimento backend com **Laravel** e frontend com **Livewire & Alpine.js**, além de experiências com **Vue.js** e **Angular**.
 - 🌱 Aprendendo continuamente e explorando novas tecnologias para aprimorar minhas soluções.
 - 🎯 Buscando construir interfaces intuitivas e APIs robustas.
-- 🚀 Meu projeto atual de destaque é a construção do meu portfólio pessoal utilizando a TALL Stack, onde aplico os conceitos mais recentes que tenho aprendido.
+
 ---
 
 ## 🛠️ Minhas Habilidades & Ferramentas
