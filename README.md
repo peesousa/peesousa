@@ -1,5 +1,13 @@
 # Olá, eu sou o Pedro Sousa! 👋🏾
 
-Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e soluções de automação e IA.
+Graduando em Ciência da Computação e explorando a interseção entre **Desenvolvimento Web** e **Inteligência Artificial**.
 
-💼 Confira meu portfólio online: **[www.pedrols.dev](https://www.pedrols.dev)**
+| Domínio | Ferramentas |
+| :--- | :--- |
+| **Backend** | PHP, Laravel, Python, Django, Postgres |
+| **Frontend** | Vue.js, Nuxt, Tailwind |
+| **Ops/Auto** | Docker, n8n, Linux |
+
+📂 **Portfólio:** [pedrols.dev](https://www.pedrols.dev)
+
+📫 **Contato:** <pedroeduardo.lsousa@gmail.com>
